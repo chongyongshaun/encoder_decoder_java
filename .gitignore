@@ -1,0 +1,12 @@
+# Ignore bin directory
+bin/
+
+# Ignore .metadata directory
+.metadata/
+
+# Ignore manifest file
+manifest
+
+# Ignore specific text files
+out.txt
+test.txt
